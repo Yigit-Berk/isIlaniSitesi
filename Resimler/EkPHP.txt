@@ -1,0 +1,5 @@
+oluşturduğumn ilan silinebilmeli ve görüntülenebilmeli
+
+silme ve görüntüleme profilim kısmından erişilebilir olabilir.
+
+b_isilaniformu: kullanici_id sütununda tutulsun
