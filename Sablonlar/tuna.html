@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tuna</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .container{
+    box-shadow: 7px 2px 5px rgb(2, 10, 56);
+    margin-bottom: 50px;
+    width: 700px;
+    height: 1000px;
+    /* margin-bottom: 50px; */
+    background-color:  rgb(0, 42, 84);
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;/*aşağı yönde eklensin*/
+    align-items: end;
+        }
+        .container > div{
+            align-self: center;
+            color: aqua;
+            font-size: 50px;
+        }
+        .container-wrapper {
+        display: grid;
+        place-items: center;
+    /* height: 100vh; */ /* Sayfanın tamamını kaplaması için */
+}
+
+    </style>
+</head>
+<body>
+<div class="container-wrapper">
+    <div class="container">
+        <div>debnene</div>
+        <div>debnene</div>
+        <div>debnene</div>
+        <div>debnene</div>
+        <div>debnene</div>
+        <div>debnene</div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,34 @@
+ana sayfa html ve css tasarım:Yiğit
+hakkımızda sayfası html ve css tasarımı:Tunahan
+    SQL KODLARI/içerik yazısı...
+login sayfası html ve css tasarımı:Tolga
+
+İşlemler html ve css tasarımı:
+Bireysel
+    İş İlanı oluşturma sayfası
+    Firma iş ilanları sayfası
+Kurumsal
+    İş ilanları inceleme
+    İş ilanı yayınlama
+
+Sık Sorulanlar html ve css tasarımı:
+İletişim html ve css tasarımı: YiğitG
+Hizmetimiz html ve css tasarımı:
+Etkili Hesap oluşturma html ve css tasarımı:
+Teknik Destek html ve css tasarımı:
+Sık Sorulanlar html ve css tasarımı: Tolga
+
+Admin paneli tasarım ve css tasarımı
+
+Veritabanı:
+Tablo1,2,3,4...
+SQL TABLO1 oluşturma kodları: Tolga
+SQL TABLO2 oluşturma kodları: YiğitG
+SQL TABLO3 oluşturma kodları: Tunahan
+
+Veritabanı bağlantı kodları: Yiğit 
+Veritabanı sorguları:XXX...
+
+
+
+

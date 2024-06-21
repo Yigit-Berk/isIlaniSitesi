@@ -1,0 +1,2 @@
+shift + alt + f: kod bloğu düzenleme
+shift + alt + a: açıklama satırı oluşturma

@@ -1,0 +1,59 @@
+-Müdür alımı
+-Gemicilik iş alımları
+-Hademe(Hastahane)
+-Güvenlik(Bekçi)
+-POMPACI
+-Mobilya(marangoz,boyacı)
+-Şoför(kurumsal,bireysel)
+-kurye
+-Yazılımcı
+-Grafik Tasarımcı
+-Kasiyer(3 harfilerin tümü)
+-Garson
+-Vale
+
+#Ana sayfa
+-site önsözü
+-Tanıtım ağırlıklı
+    Örnek kullanıcı profillerini gör(iş ilanı oluşturmak için ilham kaynağı):
+    -profilim nasıl olmalı gibi...(etkili profil oluşturma sayfası adım adım açıklamalarla)
+    
+-kayan iş ilanları
+-Hakkımızda
+-iletişim(sosyal medya)(en alt hakkımızda ile)
+-İlanları gör
+-Kayıt Sistemi(yönlendirme yapılabilir)
+
+
+#Kullanıcı giriş sayfası
+-Yeni üye
+-Üye Giriş
+-yeni üye oluşturmada zaten hesabı varsa uyarı versin
+-Any website with a log-in uses a cookie to keep you logged in on every page of the site.
+
+ben iş arıyorsam()Bireysel
+ {
+#iş ilanı oluştur
+-iş arayan kişi kriterini belirterek iş ilanı oluşturabilir
+-uzaktan mı evden mi?
+-yeni mezun
+-tecrübe durumu
+
+#firma iş ilanları
+-iş arayan kişi firmaların yayınladığı iş ilanlarını görüp başvuu yapabilir
+ }
+
+Eğer firmaysam()
+ {
+#iş ilanları inceleme
+-iş ilanı oluşturmuş ikşilerin ilanlarını inceleyip işe alım yapabilsin
+
+#iş ilanı yayınla
+-iş firmaları iş ilanı yayınlayabilsin
+-...
+ }
+
+#diğer sayfalar
+yeni iş ilanları için mail alma özelliği ( araştırılmalı)
+-site içi bildirimler
+-iş başvuru mailleri
