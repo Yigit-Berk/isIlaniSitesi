@@ -1,0 +1,111 @@
+*{
+    margin: 0;/*kenardan uzaklığı*/
+    padding: 0;
+    font-family: Helvetica, Verdana, Arial;
+}
+.flex-container{
+    box-shadow: 0 40px 40px rgba(2, 10, 56, 0.6);
+    margin-bottom: 50px;
+    margin-top: 50px;
+    /* margin-bottom: 50px; */
+    background-color:  rgba(0, 42, 84, 0.2);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;/*aşağı yönde eklensin*/
+}
+
+/* Flex yapısını ortaya hizalamak için */
+#container-wrapper {
+    display: grid;
+    place-items: center;
+    /* height: 100vh; */ /* Sayfanın tamamını kaplaması için */
+}
+
+/* container içindeki tüm div'lere uygulanacak tasarımlar: */
+.flex-container > div {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 550px;
+    height: 12%;
+    background-color: rgba(0, 42, 84, 0.8);
+    padding: 1em;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    border: 5px solid var(--clr-accent);
+    border-radius: 10px;
+}
+
+.arkaPlan{
+    background-image: url("../Resimler/arkaPlan.png");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* link biçimi */
+.a{
+    text-decoration: none;
+    color: rgb(58, 156, 255);
+}
+
+/* buton özellikleri */
+input[type="submit"]{
+    max-width: 50%;
+    max-height: 50%;
+    border-radius: 60px;
+    border-style: none;/*kenarlıksız olsun*/
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
+    /*varsayılan boyutlar:*/
+    font-weight: 500;
+    font-size: 18px;
+    width: 300px;
+    height: 50px;
+    background-color: #023466;
+    color: #cccccc;
+    transition: all ease 0.4s;
+}
+/* buton üzerine gelindiğinde */
+input[type="submit"]:hover{
+    background-color: #0b47b1;
+    color: #ffffff;
+    cursor: pointer;/*imleç biçimi*/
+}
+
+/* giriş metinleri için */
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+
+.sidebar {
+    flex: 0 0 250px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
+}
+.scrollable-list {
+    max-height: 200px;
+    overflow-y: auto;
+    padding-right: 20px; /* Kaydırma çubuğunun yerleşiminden dolayı sağdan boşluk bırakır */
+}
+
+.checkbox {
+    display: block;
+    margin-bottom: 10px;
+}
+
+

@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.sidebar {
+    flex: 0 0 250px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
+}
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.job-listing {
+    background-color: #fff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex: 1;
+    position: relative; 
+}
+.job-listing img {
+    width: 80px;
+    height: 80px;
+    background-color: #ccc; 
+    margin-left: 10px;
+    float: left; /* Resmi sola yasla */
+    margin-right: 20px; /* Resmin sağında boşluk bırak */
+    border-radius: 50%; /* Resmi daire şeklinde yap */
+}
+.job-listing .ilan-tarihi {
+    font-size: 12px;
+    color: #666;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.job-listing .calisma-sekli {
+    font-size: 12px;
+    color: #666;
+    position: absolute;
+    top: 30px;
+    right: 10px;
+}
+
+.submit-button {/*Ara butonunun stilleri.*/ 
+    background-color: #ccc;
+    color: #333;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    float: right; 
+}
+.submit-button:hover {
+    background-color: #999;
+}
+/* scrollbar */
+.scrollable-list {
+    max-height: 200px; /* scrollbarın yükseliğini belirliyoruz. */
+    overflow-y: auto;
+}
+/* Checkbox listesi */
+.scrollable-list label {
+    display: block;
+    margin-bottom: 5px;
+}
