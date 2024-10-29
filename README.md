@@ -5,6 +5,9 @@
  kullanıcı dostu arayüzü ile hem iş arayanlar hem de işverenler için verimli bir deneyim
  sunmayı amaçlamaktadır.
 
+# Lisans
+No license
+
  # Arayüz Tasarımları
 
 # Bireysel
