@@ -7,22 +7,22 @@
 
  # Arayüz Tasarımları
 
-Bireysel
+# Bireysel
  ![image](https://github.com/user-attachments/assets/ff63e978-3ed3-4b2b-9d0f-889a28951c8c)
 
-Kurumsal
+# Kurumsal
  ![image](https://github.com/user-attachments/assets/3b0c2543-9158-4e0d-8c4c-49835e6e80cd)
 
-Kayıt ve Giriş 
+# Kayıt ve Giriş 
 ![image](https://github.com/user-attachments/assets/137b4c41-75dd-4c78-ae0d-8c224b3d9e25)
 
-İlanlar Sayfası
+# İlanlar Sayfası
 ![image](https://github.com/user-attachments/assets/0ef5b60d-e1b5-4132-8b70-f5bdb08b54ea)
 
-İlan Oluşturma
+# İlan Oluşturma
 ![image](https://github.com/user-attachments/assets/9dacdae6-e15b-46db-96fe-87a5a393e791)
 
-Admin Paneli
+# Admin Paneli
 ![image](https://github.com/user-attachments/assets/48c5134f-2f5b-4381-9246-040be5c564d6)
 
 
